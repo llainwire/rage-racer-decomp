@@ -51,6 +51,7 @@ local/
 expected/
 extracted/
 extracted_assets/
+.venv-linux/
 
 # Local toolchains and external helper clones. The build may populate
 # build/toolchain/, but source releases must not publish these.
@@ -93,3 +94,4 @@ debug_source.c
 
 # Scratch work from decompilation sessions.
 tools/decomp-wip/
+CLAUDE_HANDOFF.md
